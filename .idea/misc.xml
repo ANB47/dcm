@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="OctanePluginConnectionSettings" Url="https://almoctane-eur.saas.microfocus.com" SharedSpace="416002" WorkSpace="51001" SSO="true" />
+  <component name="OctanePluginState" SEARCH_HISTORY="{&quot;SEARCH_HISTORY&quot;:[]}" />
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
