@@ -1,3 +1,5 @@
 Lorem Ipsum
 
-Text moved to Lorem-1.txt
+12345
+
+678910
