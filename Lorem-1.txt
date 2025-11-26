@@ -8,5 +8,3 @@ Lorem Ipsum passages, and more recently with desktop publishing software like Al
 including versions of Lorem Ipsum.
 
 Changes - NEXT CHANGES
-
-defect #668024 
